@@ -1,9 +1,11 @@
 # TIPICHAIN - Time-Share Bungalow Ownership Smart Contract
 
+https://testnet.bscscan.com/address/0x17ecf5b3d3eda674665307e8f9f39d8ecafd50e4#code
+
 The Time-Share Bungalow Ownership Smart Contract, implemented on the Ethereum blockchain, offers a cutting-edge solution for managing ownership and access to luxurious bungalow accommodations through the power of non-fungible tokens (NFTs). This contract leverages the ERC-721 standard for NFTs, ensuring unique and indivisible ownership representation. Here are the key benefits of this smart contract:
 
 ## 1. Secure Ownership and Provenance
-By utilizing the ERC-721 standard, this smart contract guarantees secure and tamper-proof ownership of time-share bungalow accommodations. Each NFT token represents a share in the ownership of a specific bungalow, providing transparent and traceable ownership history.
+By utilizing the ERC-721 standard, this smart contract guarantees secure and tamper-proof ownership of time-share bungalow accommodations. Each NFT token represents a share in the ownership of a specific bungalow, providing a transparent and traceable ownership history.
 
 ## 2. Decentralized Governance
 The contract integrates the Access Control mechanism, enabling precise control over contract actions. Different roles, such as administrators, pausers, and minters, are assigned specific permissions. This decentralized governance ensures that only authorized individuals can perform critical actions, maintaining the integrity of the time-share system.
